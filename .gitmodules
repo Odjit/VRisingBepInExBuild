@@ -1,0 +1,12 @@
+[submodule "Cpp2IL"]
+	path = Cpp2IL
+	url = https://github.com/Odjit/Cpp2IL.git
+	branch = v-rising_1.1
+[submodule "BepInEx"]
+	path = BepInEx
+	url = https://github.com/Odjit/BepInEx.git
+	branch = v-rising_1.1
+[submodule "Il2CppInterop"]
+	path = Il2CppInterop
+	url = https://github.com/Odjit/Il2CppInterop.git
+	branch = v-rising_1.1
